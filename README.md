@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full-Stack Developer** who recently completed a comprehensive full-stack development course. I love the challenge of problem-solving and bringing creative ideas and user stories to life through code. My focus is on integrating modern tech stacks with AI to create innovative solutions, and I'm continuously learning and growing to become a better software developer.
+I'm a passionate **Junior Full-Stack Developer** who recently completed a comprehensive full-stack development course. I love the challenge of problem-solving and bringing creative ideas and user stories to life through code. My focus is on integrating modern tech stacks with AI to create innovative solutions, and I'm continuously learning and growing to become a better software developer.
 
 ## 🛠️ Technologies & Tools
 
